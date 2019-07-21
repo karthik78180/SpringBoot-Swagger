@@ -27,6 +27,7 @@ public class Swagger2UiConfiguration extends WebMvcConfigurerAdapter  {
 				.build()
 				;
 		// @formatter:on
+		//
 	}
 	
 	@Override
